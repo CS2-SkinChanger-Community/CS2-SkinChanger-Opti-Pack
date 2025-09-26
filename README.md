@@ -1,6 +1,6 @@
 # 🚀 CS2 Skin Changer Opti Pack
 
-![CS2SkinChangerOptiPack Banner](https://i.ytimg.com/vi/HLZuuNPTEFU/maxresdefault.jpg)
+![CS2SkinChangerOptiPack Banner](https://i.ytimg.com/vi/88fjxxcvmR8/maxresdefault.jpg)
 
 ---
 
@@ -35,11 +35,11 @@ CS2SkinChangerOptiPack is designed to supercharge your CS2 skin changer experien
 ## 🖼 Screenshots
 
 **Control Dashboard**  
-![Interface](https://static-blog.onlyoffice.com/wp-content/uploads/2023/09/15172808/picture-of-tool-3.png)  
+![Interface](https://sapphire-project.ru/data/attachments/screen/cs2/1.png)  
 *User-friendly optimization panel for CS2 skin tools.*
 
 **Feature Overview**  
-![Tools](https://cdn.prod.website-files.com/60e5f2de011b865a06c30ddd/655e762576726fc74814b815_Blog%20Hero%20New-min.png)  
+![Tools](https://i.imgur.com/4RMvj38.png)  
 *Powerful tools for custom skins and inventories.*
 
 ---
